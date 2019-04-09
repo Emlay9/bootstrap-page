@@ -41,3 +41,14 @@
  .fa-chevron-right, .fa-chevron-left {
      width:30px;
  }
+
+ .dot {
+    height: 13px;
+    width: 13px;
+    
+    border-radius: 50%;
+ }
+
+ .dot-stroke {
+     border: 1px solid #000;
+ }
